@@ -1,0 +1,126 @@
+Date : 2024-05-26 20:53:18
+Directory : c:\Users\李建业\Desktop\CUMT_graduation-master
+Total : 63 files,  6426 codes, 1976 comments, 992 blanks, all 9394 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| Python             |         27 |      2,616 |      1,949 |        732 |      5,297 |
+| JSON               |          5 |      2,575 |          0 |          4 |      2,579 |
+| vue                |          9 |        653 |          3 |         71 |        727 |
+| Markdown           |          7 |        337 |          0 |        143 |        480 |
+| JavaScript         |          6 |        104 |         21 |         18 |        143 |
+| CSS                |          3 |        104 |          3 |         21 |        128 |
+| HTML               |          1 |         13 |          0 |          1 |         14 |
+| pip requirements   |          1 |         11 |          0 |          0 |         11 |
+| JSON with Comments |          1 |          8 |          0 |          1 |          9 |
+| XML                |          3 |          5 |          0 |          1 |          6 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                   |         63 |      6,426 |      1,976 |        992 |      9,394 |
+| . (Files)                                                                                                           |          3 |        104 |          0 |         47 |        151 |
+| graduation_backend                                                                                                  |         33 |      2,860 |      1,949 |        816 |      5,625 |
+| graduation_backend (Files)                                                                                          |         14 |      1,565 |      1,160 |        362 |      3,087 |
+| graduation_backend\dataset                                                                                          |          4 |         12 |          2 |          8 |         22 |
+| graduation_backend\dataset\CHASEDB1                                                                                 |          2 |         10 |          2 |          4 |         16 |
+| graduation_backend\dataset\CHASEDB1 (Files)                                                                         |          1 |          9 |          2 |          2 |         13 |
+| graduation_backend\dataset\CHASEDB1\ImageSets                                                                       |          1 |          1 |          0 |          2 |          3 |
+| graduation_backend\dataset\CHASEDB1\ImageSets\Segmentation                                                          |          1 |          1 |          0 |          2 |          3 |
+| graduation_backend\dataset\DRIVE                                                                                    |          1 |          1 |          0 |          2 |          3 |
+| graduation_backend\dataset\DRIVE\train                                                                              |          1 |          1 |          0 |          2 |          3 |
+| graduation_backend\dataset\DRIVE\train\ImageSets                                                                    |          1 |          1 |          0 |          2 |          3 |
+| graduation_backend\dataset\DRIVE\train\ImageSets\Segmentation                                                       |          1 |          1 |          0 |          2 |          3 |
+| graduation_backend\dataset\IDRiD                                                                                    |          1 |          1 |          0 |          2 |          3 |
+| graduation_backend\dataset\IDRiD\ImageSets                                                                          |          1 |          1 |          0 |          2 |          3 |
+| graduation_backend\dataset\IDRiD\ImageSets\Segmentation                                                             |          1 |          1 |          0 |          2 |          3 |
+| graduation_backend\nets                                                                                             |          7 |        476 |         91 |        141 |        708 |
+| graduation_backend\utils                                                                                            |          8 |        807 |        696 |        305 |      1,808 |
+| graduation_frontend                                                                                                 |         27 |      3,462 |         27 |        129 |      3,618 |
+| graduation_frontend (Files)                                                                                         |          8 |      2,621 |          2 |         23 |      2,646 |
+| graduation_frontend\public                                                                                          |          1 |          3 |          0 |          0 |          3 |
+| graduation_frontend\public\images                                                                                   |          1 |          3 |          0 |          0 |          3 |
+| graduation_frontend\src                                                                                             |         18 |        838 |         25 |        106 |        969 |
+| graduation_frontend\src (Files)                                                                                     |          2 |         39 |          1 |          6 |         46 |
+| graduation_frontend\src\api                                                                                         |          2 |         22 |          3 |          3 |         28 |
+| graduation_frontend\src\assets                                                                                      |          4 |        103 |          2 |         21 |        126 |
+| graduation_frontend\src\components                                                                                  |          1 |         55 |          0 |          5 |         60 |
+| graduation_frontend\src\router                                                                                      |          1 |         43 |         15 |          6 |         64 |
+| graduation_frontend\src\styles                                                                                      |          1 |          3 |          1 |          1 |          5 |
+| graduation_frontend\src\styles\dark                                                                                 |          1 |          3 |          1 |          1 |          5 |
+| graduation_frontend\src\views                                                                                       |          7 |        573 |          3 |         64 |        640 |
++---------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                            | language           | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\李建业\Desktop\CUMT_graduation-master\README.md                                                               | Markdown           |         82 |          0 |         45 |        127 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\README.md                                            | Markdown           |        139 |          0 |         43 |        182 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\app.py                                               | Python             |        108 |         23 |         18 |        149 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\dataset\CHASEDB1\ImageSets\Segmentation\README.md    | Markdown           |          1 |          0 |          2 |          3 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\dataset\CHASEDB1\rename.py                           | Python             |          9 |          2 |          2 |         13 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\dataset\DRIVE\train\ImageSets\Segmentation\README.md | Markdown           |          1 |          0 |          2 |          3 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\dataset\IDRiD\ImageSets\Segmentation\README.md       | Markdown           |          1 |          0 |          2 |          3 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\get_miou.py                                          | Python             |         38 |         17 |          8 |         63 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\json_to_dataset.py                                   | Python             |         55 |          2 |         13 |         70 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\nets\__init__.py                                     | Python             |          0 |          1 |          0 |          1 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\nets\resnet.py                                       | Python             |        122 |         24 |         40 |        186 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\nets\unet(vgg+resnet).py                             | Python             |         80 |         25 |         30 |        135 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\nets\unet.py                                         | Python             |         75 |         29 |         29 |        133 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\nets\unet_old.py                                     | Python             |         48 |          2 |         13 |         63 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\nets\unet_training.py                                | Python             |         91 |          4 |         19 |        114 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\nets\vgg.py                                          | Python             |         60 |          6 |         10 |         76 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\predict.py                                           | Python             |        112 |         54 |         16 |        182 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\requirements.txt                                     | pip requirements   |         11 |          0 |          0 |         11 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\summary.py                                           | Python             |         17 |          9 |          5 |         31 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\train.py                                             | Python             |        217 |        249 |         42 |        508 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\train_medical.py                                     | Python             |        195 |        249 |         47 |        491 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\train_medical2.py                                    | Python             |        209 |        262 |         50 |        521 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\unet.py                                              | Python             |        257 |        278 |         63 |        598 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\utils\__init__.py                                    | Python             |          0 |          1 |          0 |          1 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\utils\callbacks.py                                   | Python             |        143 |         55 |         41 |        239 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\utils\dataloader.py                                  | Python             |         94 |         34 |         22 |        150 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\utils\dataloader_medical.py                          | Python             |        119 |        322 |         95 |        536 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\utils\dataloader_medical_Label.py                    | Python             |        135 |        164 |         62 |        361 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\utils\utils.py                                       | Python             |         58 |         16 |         15 |         89 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\utils\utils_fit.py                                   | Python             |        108 |         54 |         35 |        197 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\utils\utils_metrics.py                               | Python             |        150 |         50 |         35 |        235 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\voc_annotation.py                                    | Python             |         74 |         10 |         14 |         98 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\voc_annotation_medical.py                            | Python             |         42 |          7 |          8 |         57 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_backend\毕设0.md                                               | Markdown           |         91 |          0 |         35 |        126 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\.eslintrc.cjs                                       | JavaScript         |         12 |          1 |          2 |         15 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\.prettierrc.json                                    | JSON               |          8 |          0 |          0 |          8 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\README.md                                           | Markdown           |         22 |          0 |         14 |         36 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\index.html                                          | HTML               |         13 |          0 |          1 |         14 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\jsconfig.json                                       | JSON with Comments |          8 |          0 |          1 |          9 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\package-lock.json                                   | JSON               |      2,512 |          0 |          1 |      2,513 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\package.json                                        | JSON               |         33 |          0 |          1 |         34 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\public\images\mylogo.svg                            | XML                |          3 |          0 |          0 |          3 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\App.vue                                         | vue                |         25 |          0 |          2 |         27 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\api\apiConfig.js                                | JavaScript         |          1 |          1 |          0 |          2 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\api\training_info.js                            | JavaScript         |         21 |          2 |          3 |         26 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\assets\base.css                                 | CSS                |         71 |          2 |         14 |         87 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\assets\logo.svg                                 | XML                |          1 |          0 |          1 |          2 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\assets\main.css                                 | CSS                |         30 |          0 |          6 |         36 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\assets\moon.svg                                 | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\components\Header.vue                           | vue                |         55 |          0 |          5 |         60 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\main.js                                         | JavaScript         |         14 |          1 |          4 |         19 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\router\index.js                                 | JavaScript         |         43 |         15 |          6 |         64 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\styles\dark\css-vars.css                        | CSS                |          3 |          1 |          1 |          5 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\views\AboutView.vue                             | vue                |         14 |          0 |          2 |         16 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\views\Diagram.vue                               | vue                |        130 |          0 |         12 |        142 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\views\HomeView.vue                              | vue                |         61 |          0 |          6 |         67 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\views\Segimage.vue                              | vue                |         29 |          0 |          7 |         36 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\views\Train.vue                                 | vue                |        105 |          0 |          9 |        114 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\views\TrainModel.vue                            | vue                |        167 |          3 |         20 |        190 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\src\views\UploadCSV.vue                             | vue                |         67 |          0 |          8 |         75 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\graduation_frontend\vite.config.js                                      | JavaScript         |         13 |          1 |          3 |         17 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\package-lock.json                                                       | JSON               |         17 |          0 |          1 |         18 |
+| c:\Users\李建业\Desktop\CUMT_graduation-master\package.json                                                            | JSON               |          5 |          0 |          1 |          6 |
+| Total                                                                                                               |                    |      6,426 |      1,976 |        992 |      9,394 |
++---------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
